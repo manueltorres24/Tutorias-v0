@@ -1,5 +1,5 @@
 # Tarea: Tutorías IES Al-Ándalus
-## Profesor: José Ramón Jiménez Reyes
+## Profesor: Andrés Rubio del Río
 ## Alumno:
 
 La tarea va a consistir en modelar la gestión de tutorías para la FP Semipresencial del IES Al-Ándalus. Después de todas las especificaciones y requerimientos anotados, en este **primer spring** de la aplicación se ha decidido abarcar los siguientes:
